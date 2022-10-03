@@ -2,7 +2,7 @@ body { background-color: #79bd84  ;text-align: center;
   font-family: Lato, sans-serif; font-weight: lighter; font-size: 120%}
 .content {text-align: center;font-family: Lato, sans-serif; font-weight: lighter;
 margin: 5px;}
-.info { width: 30%; display: inline-block; height: 317px;}
+.info { width: 30%; display: inline-block; height: 317px;font-size: 130%}
 .info img {width: 80%; }
 .imgWrapper {width: 20%; height: 20%;position:relative}
 hr {background-color: black; border: 1px solid black}
